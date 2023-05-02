@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<routes>
+    <route team="Tonatiuh" cost="80028" cities="69">
+        <city id="0" nome="campo base"></city>
+        <city id="23" nome="Guaia"></city>
+        <city id="58" nome="Cusco"></city>
+        <city id="84" nome="Caracol"></city>
+        <city id="101" nome="Verolanuova"></city>
+        <city id="138" nome="Tenochticlan"></city>
+        <city id="170" nome="Macondo"></city>
+        <city id="212" nome="Chiva"></city>
+        <city id="236" nome="Mixco Vieio"></city>
+        <city id="278" nome="Mixco Vieio"></city>
+        <city id="311" nome="Rio"></city>
+        <city id="344" nome="El Mirador"></city>
+        <city id="383" nome="Cusco"></city>
+        <city id="415" nome="Quirigua"></city>
+        <city id="444" nome="Qu'umarkaj"></city>
+        <city id="467" nome="Kopa"></city>
+        <city id="495" nome="Tenochticlan"></city>
+        <city id="530" nome="Macondo"></city>
+        <city id="574" nome="Machu Picchu"></city>
+        <city id="598" nome="Chiva"></city>
+        <city id="642" nome="Guapalupa"></city>
+        <city id="674" nome="Teotiguacan"></city>
+        <city id="697" nome="Chiva"></city>
+        <city id="738" nome="Guapalupa"></city>
+        <city id="778" nome="Chiqua"></city>
+        <city id="817" nome="Teotiguacan"></city>
+        <city id="846" nome="Tenochticlan"></city>
+        <city id="882" nome="Guaia"></city>
+        <city id="909" nome="Guaia"></city>
+        <city id="936" nome="Kopa"></city>
+        <city id="977" nome="Kopa"></city>
+        <city id="1000" nome="Mixco Vieio"></city>
+        <city id="1043" nome="Quetzacoatl"></city>
+        <city id="1053" nome="Rio"></city>
+        <city id="1091" nome="Chiva"></city>
+        <city id="1131" nome="Cusco"></city>
+        <city id="1169" nome="Quetzacoatl"></city>
+        <city id="1191" nome="Machu Picchu"></city>
+        <city id="1212" nome="Teotiguacan"></city>
+        <city id="1254" nome="Caracol"></city>
+        <city id="1293" nome="Tenochticlan"></city>
+        <city id="1309" nome="Chiqua"></city>
+        <city id="1346" nome="Tikal"></city>
+        <city id="1377" nome="Qu'umarkaj"></city>
+        <city id="1391" nome="Caracol"></city>
+        <city id="1411" nome="Machu Picchu"></city>
+        <city id="1434" nome="Rio"></city>
+        <city id="1472" nome="Tenochticlan"></city>
+        <city id="1487" nome="Kopa"></city>
+        <city id="1506" nome="El Mirador"></city>
+        <city id="1531" nome="Verolanuova"></city>
+        <city id="1568" nome="Kopa"></city>
+        <city id="1541" nome="Quirigua"></city>
+        <city id="1583" nome="Macondo"></city>
+        <city id="1624" nome="Teotiguacan"></city>
+        <city id="1645" nome="Verolanuova"></city>
+        <city id="1687" nome="El Mirador"></city>
+        <city id="1730" nome="Macondo"></city>
+        <city id="1773" nome="Machu Picchu"></city>
+        <city id="1791" nome="Chiva"></city>
+        <city id="1797" nome="Guapalupa"></city>
+        <city id="1826" nome="Macondo"></city>
+        <city id="1865" nome="Teotiguacan"></city>
+        <city id="1888" nome="Tikal"></city>
+        <city id="1879" nome="Tikal"></city>
+        <city id="1921" nome="Guapalupa"></city>
+        <city id="1948" nome="Mixco Vieio"></city>
+        <city id="1983" nome="Qu'umarkaj"></city>
+        <city id="1999" nome="Rovine Perdute"></city>
+    </route>
+    <route team="Metztli" cost="9639" cities="12">
+        <city id="1681" nome="campo base"></city>
+        <city id="1714" nome="Guaia"></city>
+        <city id="1747" nome="Cusco"></city>
+        <city id="1790" nome="Caracol"></city>
+        <city id="1825" nome="Verolanuova"></city>
+        <city id="1809" nome="Tenochticlan"></city>
+        <city id="1852" nome="Macondo"></city>
+        <city id="1882" nome="Chiva"></city>
+        <city id="1921" nome="Mixco Vieio"></city>
+        <city id="1941" nome="Mixco Vieio"></city>
+        <city id="1982" nome="Rio"></city>
+        <city id="1999" nome="Rovine Perdute"></city>
+    </route>
+</routes>
